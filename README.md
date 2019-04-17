@@ -9,7 +9,8 @@ Digital Image Processing
 
 -Morphological Reconstruction via dilation
 
-![Reconstruction of Binary Image](https://github.com/iruminii/ECE5470_holes/blob/master/results/binaryimg.PNG){:height="50%" width="50%"}
+<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/binaryimg.PNG" width="50%" height="50%">
+![Reconstruction of Binary Image](){:height="50%" width="50%"}
 
 ![Reconstruction of Grayscale Image](https://github.com/iruminii/ECE5470_holes/blob/master/results/grayscale.PNG){:height="50%" width="50%"}
 
