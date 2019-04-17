@@ -8,7 +8,7 @@
 
 -Black acts as background
 
--Morphological Reconstruction via dilation
+-Morphological Reconstruction via geodesic dilation
 
 -------------------------------------------
 ### tested images/results
