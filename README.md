@@ -8,3 +8,5 @@ Digital Image Processing
 -Black acts as background
 
 -Morphological Reconstruction via dilation
+
+![Image description](https://github.com/iruminii/ECE5470_holes/blob/master/results/binaryimg.PNG)
