@@ -13,6 +13,6 @@
 -------------------------------------------
 ### tested images/results
 -------------------------------------------
-<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/binaryimg.PNG" width ="300"> |
-<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/grayscale.PNG" width ="300"> |
-<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/color_readasgrayscale.PNG" width ="300">
+<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/binaryimg.PNG" width ="250" height = "300"> |
+<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/grayscale.PNG" width ="250"height = "300"> |
+<img src="https://github.com/iruminii/ECE5470_holes/blob/master/results/color_readasgrayscale.PNG" width ="250" height = "300">
