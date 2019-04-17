@@ -1,2 +1,6 @@
 # ECE5470_holes
-autofill holes in white objects (binary images) morphological reconstruction via dilation
+Digital Image Processing
+Autofill holes in binary images
+Only white objects are filled with white
+Black acts as background
+Morphological Reconstruction via dilation
